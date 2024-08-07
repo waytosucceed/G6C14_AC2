@@ -1,0 +1,152 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which of these is a noun phrase?",
+      "options": ["quickly ran", "the big red ball", "under the table", "was singing loudly"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "An independent clause:",
+      "options": ["Cannot stand alone as a sentence", "Has only a subject", "Has only a verb", "Can stand alone as a complete sentence"],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "True or False: A dependent clause can be a complete sentence on its own.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Fill in the blank: A _______ phrase describes a verb, telling how, when, or where something happens.",
+      "options": ["Adverb", "Adjective"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Which type of phrase is 'full of toys'?",
+      "options": ["Noun phrase", "Verb phrase", "Adjective phrase", "Adverb phrase"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "True or False: Every sentence must have at least one independent clause.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Which of these is a verb phrase?",
+      "options": ["the happy dog", "was jumping high", "under the bridge", "very quickly"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Fill in the blank: A _______ phrase starts with words like in, on, or under and tells us about position.",
+      "options": ["Prepositional", "Verb"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Which clause is dependent in this sentence: 'When it rains, we stay inside'?",
+      "options": ["When it rains", "we stay inside", "Both are dependent", "Neither is dependent"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "True or False: A phrase always has a subject and a verb.",
+      "options": ["True", "False"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "Which of these is a prepositional phrase?",
+      "options": ["the brown dog", "runs quickly", "in the morning", "was singing"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Fill in the blank: An _______ clause has a subject and a verb but can't stand alone as a sentence.",
+      "options": ["dependent", "independent"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Which type of phrase is 'very loudly'?",
+      "options": ["Noun phrase", "Verb phrase", "Adjective phrase", "Adverb phrase"],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Which of these is an independent clause?",
+      "options": ["because it was raining", "the dog barked", "under the big tree", "very quickly"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Fill in the blank: A _______ phrase names a person, place, or thing.",
+      "options": ["Noun", "Pronoun"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Which type of clause is 'while I was sleeping'?",
+      "options": ["Independent clause", "Dependent clause", "Not a clause", "Both independent and dependent"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "Which of these is an adjective phrase?",
+      "options": ["ran quickly", "under the bridge", "full of stars", "the cat meowed"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Fill in the blank: A _______ is a group of words that has both a subject and a verb.",
+      "options": ["phrase", "clause"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Which of these is a dependent clause?",
+      "options": ["The sun is shining", "Because it's a nice day", "In the park", "Very slowly"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Which of these is a prepositional phrase?",
+      "options": ["the blue sky", "ran fast", "on the table", "is singing"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q21.",
+      "question": "Which type of clause is 'The cat slept on the couch'?",
+      "options": ["Dependent clause", "Independent clause", "Not a clause", "Both dependent and independent"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q22.",
+      "question": "Fill in the blank: A _______ phrase tells us more about a noun or pronoun.",
+      "options": ["Adverb", "Adjective"],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q23.",
+      "question": "What is the main difference between an independent and a dependent clause?",
+      "options": ["The number of words", "The type of words used", "Whether it can stand alone as a sentence", "The punctuation used"],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q24.",
+      "question": "True or False: A clause always has a subject and a verb.",
+      "options": ["True", "False"],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q25.",
+      "question": "Fill in the blank: In the sentence 'When it rains, I use an umbrella,' the clause 'When it rains' is a _______ clause. ",
+      "options": ["dependent", "independent"],
+      "correct": 0
+  }
+]
